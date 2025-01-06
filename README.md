@@ -28,5 +28,10 @@ Windows                  23 hrs 25 mins      ███████████�
 
 <!--END_SECTION:waka-->
 
-<h3 align="left">I am currently reading:</h3>
-<a href="<82137253>"><img src="https://goodreads-readme.vercel.app/api/book?id=<ID you noted down>" alt="GoodReads reading" width="350" /></a>
+<h3 align="left">Last books I read:</h3>
+<div align="center">
+    <a href="https://www.goodreads.com/user/show/82137253-gabriel">
+        <img src="https://goodreads-readme.vercel.app/api/book?id=82137253" alt="GoodReads reading"/>
+    </a>
+</div>
+
