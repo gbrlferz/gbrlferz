@@ -7,7 +7,5 @@ Check out my games [here](https://gabiru.art/projetos/)!
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-686%20hrs%2011%20mins-blue)
-
 
 <!--END_SECTION:waka-->
