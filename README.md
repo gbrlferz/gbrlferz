@@ -7,13 +7,13 @@ Check out my games [here](https://gabiru-exe.itch.io/)!
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-700%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-702%20hrs%2028%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Odin                     13 hrs 37 mins      ███████████████████████░░   92.56 % 
+Odin                     13 hrs 37 mins      ███████████████████████░░   92.57 % 
 hyprlang                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
 conf                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
